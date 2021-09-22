@@ -1,3 +1,3 @@
-Began work on TOP Recipes project - set up Github repo before beginning work,
-using terminal commands to make project directory, and to make this README file,
-then use git to commit to the github repo. 
+Following The Odin Project, completed HTML project to make a basic recipe site
+containing 3 recipes to be linked to separately from the index page. 
+Completed 9/22/2022. 
